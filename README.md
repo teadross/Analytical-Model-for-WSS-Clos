@@ -6,6 +6,6 @@ This is the source code of the analytical model for the WSS-Clos-Network, you ca
 
 You can modify all available parameters in 'Constant.java'.
 
-Try it.
+Please try it.
 
 If you see any bugs, let me know.
